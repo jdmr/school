@@ -16,7 +16,7 @@
                     v-model="teacher.firstName"
                     type="text"
                     name="firstName"
-                    class="text-gray-700 p-2 border border-gray-300 rounded-md"
+                    class="border border-gray-300 rounded p-1 focus:outline-none focus:ring-2 focus:ring-purple-300 hover:ring-2 hover:ring-purple-300 transition duration-200 ease-in-out"
                     required
                 />
             </div>
@@ -27,7 +27,7 @@
                     v-model="teacher.lastName"
                     type="text"
                     name="lastName"
-                    class="text-gray-700 p-2 border border-gray-300 rounded-md"
+                    class="border border-gray-300 rounded p-1 focus:outline-none focus:ring-2 focus:ring-purple-300 hover:ring-2 hover:ring-purple-300 transition duration-200 ease-in-out"
                     required
                 />
             </div>

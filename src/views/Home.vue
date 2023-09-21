@@ -15,10 +15,10 @@
                             id="courseName"
                             v-model="courseName"
                             type="text"
-                            class="border border-gray-300 rounded p-1 focus:outline-none focus:ring-2 focus:ring-blue-300 hover:ring-2 hover:ring-blue-300 transition duration-200 ease-in-out"
+                            class="border border-gray-300 rounded p-1 focus:outline-none focus:ring-2 focus:ring-purple-300 hover:ring-2 hover:ring-purple-300 transition duration-200 ease-in-out"
                         />
                         <button
-                            class="bg-blue-500 text-white rounded p-1 focus:outline-none focus:ring-2 focus:ring-blue-300 hover:bg-blue-600 hover:ring-2 hover:ring-blue-300 transition duration-200 ease-in-out"
+                            class="bg-purple-500 text-white rounded p-1 focus:outline-none focus:ring-2 focus:ring-purple-300 hover:bg-purple-600 hover:ring-2 hover:ring-purple-300 transition duration-200 ease-in-out"
                         >
                             <i class="i-mdi:plus h-6 w-6"></i>
                         </button>
